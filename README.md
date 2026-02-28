@@ -5,4 +5,3 @@ local _0xLD = "\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\1
 -- O menu LD MODZ V1 abrirá normalmente ao executar o link.
 ]])
 loadstring(_0xLD)()
-
